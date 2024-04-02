@@ -11,6 +11,8 @@ To use this script, save it to a Python file (e.g., scanner.py) and run it from 
 # Command
 python cors_scanner.py --file=domains.txt
 
+
 ![cors_miss](https://github.com/rahadchowdhury/CORS-Misconfiguration-Scanner/assets/41516016/0c0c9f59-852c-4746-a81a-f7bfdc798a97)
+
 
 Replace domains.txt with the path to your text file containing the list of domains. The script will then scan each domain in the file and print the results.
