@@ -13,7 +13,6 @@ print ("""
                                                               |___/                                   
 CORS Misconfiguration Scanner
 Command: python scanner.py --file=domains.txt
-Exploit URL: https://github.com/rahadchowdhury/CORS-Misconfiguration-Scanner
 Author: Rahad Chowdhury
 Info : This is a simple python script for detect CORS Misconfiguration!.
 """)
