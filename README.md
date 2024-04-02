@@ -9,7 +9,7 @@ It then prints the results, listing vulnerable and safe domains separately.
 To use this script, save it to a Python file (e.g., scanner.py) and run it from the command line, specifying the path to the domain list text file:
 
 # Command
-python cors_scanner.py --file=domains.txt
+python scanner.py --file=domains.txt
 
 
 ![cors_miss](https://github.com/rahadchowdhury/CORS-Misconfiguration-Scanner/assets/41516016/0c0c9f59-852c-4746-a81a-f7bfdc798a97)
